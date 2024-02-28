@@ -1,9 +1,7 @@
----
-### 서비스 URL
-https://summerize-fbchnmlxxulao6umcv8d9h.streamlit.app/
 
 ---
 ### 서비스 설명
+- service url: https://summerize-fbchnmlxxulao6umcv8d9h.streamlit.app/
 - app ui: streamlit
 - server: streamlit cloud
 - openai api / gpt-3.5-turbo
